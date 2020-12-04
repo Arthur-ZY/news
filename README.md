@@ -1,1 +1,1 @@
-# news
+# config for springcloud-zuul
